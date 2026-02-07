@@ -1,4 +1,4 @@
-# first-project
+# github-learning-journal
 
 ## 目標
 學習 GitHub 的基本操作，建立良好版本控制習慣。
